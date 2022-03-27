@@ -1,0 +1,194 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Righteous&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.section1{
+    height:48rem;
+    background-image: url(./img/imagem1.jpg);
+    background-size:cover;
+    background-position:center center;
+}
+
+
+.caixa1{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.section-filho{
+    width: 22rem;
+    height:4.4rem;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    font-weight: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    letter-spacing: 4px;
+    text-align: center;
+    background:  rgb(88, 88, 88);
+    border: none;
+
+    
+}
+
+
+/*----------------------------------------*/
+
+
+.section2{
+    background-color: #f4f4f4;
+    height: 18rem;
+
+}
+
+.caixa2{
+    height: 18rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+
+
+}
+
+.caixa2 p{
+    color: white;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    color: rgb(43, 42, 42);
+    font-weight: 10px;
+}
+
+/*--------------------------------------------------*/
+
+.section3{
+    height: 18rem;
+    background-image: url(./img/imagem2.jpg);
+    background-size: cover;
+    background-position: center center;
+    border: none;
+
+}
+.caixa3{
+    height: 18rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.caixa3 p{
+    color: white;
+    font-weight: 12px;
+    font-size: 24px;
+}
+/*---------------------------------------*/
+
+.section4{
+    background-color:rgb(40, 46, 52) ;
+    height: 18rem;
+}
+
+.caixa4{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 18rem;
+    gap: 16px;
+}
+.caixa4 p{
+    color: white;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-weight: 10px;
+}
+
+/*----------------------------------*/
+
+.section5{
+    height: 18rem;
+    background-image: url(./img/imagem3.jpg);
+    background-size: cover;
+    background-position: center center;
+
+}
+.caixa5{
+    height: 18rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+}
+.caixa5 p{
+    color: white;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    font-weight: 12px;
+}
+
+/*--------------------------------------*/
+.section6{
+    background-color:rgb(40, 46, 52) ;
+    height: 18rem;
+    border: none;
+}
+.caixa6{
+    height: 18rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border: none;
+
+}
+.caixa6 p{
+    color: white;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-weight: 10px;
+}
+/*-----------------------------------------*/
+
+.section7{
+    height:48rem;
+    background-image: url(./img/imagem1.jpg);
+    background-size:cover;
+    background-position:center center;
+}
+.caixa7{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.section-filho{
+    width: 22rem;
+    height:4.4rem;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 24px;
+    font-weight: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    letter-spacing: 4px;
+    text-align: center;
+    background:  rgb(88, 88, 88);
+    border: none;
+
+    
+}
